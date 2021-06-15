@@ -8,7 +8,7 @@
 
 
 
-# Как работать с репозиториями
+## Как работать с репозиториями
 
 [ссылка](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 
