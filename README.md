@@ -19,10 +19,9 @@
 
 
 
-# Usage
-
+# Ставим гит
 ```
-span style="color:blue">some *apt-get install git.* text</span>
+apt-get install git
 ```
 
 See [api_formatting.md](api_formatting.md) for tips.
