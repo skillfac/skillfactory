@@ -64,4 +64,4 @@ function fancyAlert(arg) {
 
 ## License
 
-blabla license
+blabla license :sunglasses:
