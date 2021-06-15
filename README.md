@@ -12,6 +12,7 @@
 
 [ссылка](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1616023137045/fotEYJDfr.png?auto=compress)
 
 
 
