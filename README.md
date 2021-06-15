@@ -1,19 +1,14 @@
-# skillfactory
+# Skillfactory
 
 > Здесь находится тестовый README.md файл,с демонстрацией того как может выглядеть md файл
 
 
 
-### Оглавление
-1. [Как работать с репозиториями](### Как работать с репозиториями)
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
 
 
 
-### Как работать с репозиториями
+
+# Как работать с репозиториями
 
 [ссылка](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 
@@ -22,10 +17,12 @@
 
 
 
-## API
 
-```js
-const $$rePo = require('$$REPO')
+
+# Usage
+
+```
+span style="color:blue">some *apt-get install git.* text</span>
 ```
 
 See [api_formatting.md](api_formatting.md) for tips.
