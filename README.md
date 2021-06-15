@@ -19,26 +19,22 @@
 
 
 
-# Ставим гит
-```
-apt-get install git
-```
 
-See [api_formatting.md](api_formatting.md) for tips.
+
+
 
 ## Installation
 
-With [npm](https://npmjs.org/):
+### Ставим гит
+
 
 ```shell
-npm install $$REPO
+apt-get install git
 ```
 
-With [yarn](https://yarnpkg.com/en/):
 
-```shell
-yarn add $$REPO
-```
+
+
 
 ## Acknowledgments
 
