@@ -58,8 +58,8 @@ function fancyAlert(arg) {
 ## Полезные ссылки
 
 1. [ссылка ](https://ru.wikipedia.org/wiki/Git)
-1. ссылка(https://git-scm.com/)
-1. ссылка(https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+1. [ссылка](https://git-scm.com/)
+1. [ссылка](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 
 
