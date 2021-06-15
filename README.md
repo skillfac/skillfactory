@@ -1,12 +1,19 @@
 # skillfactory
 
-
-
 > Здесь находится тестовый README.md файл,с демонстрацией того как может выглядеть md файл
 
 
 
-## Как работать с репозиториями
+### Оглавление
+1. [Item 1](head16)
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+
+
+### Как работать с репозиториями
 
 [ссылка](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 
