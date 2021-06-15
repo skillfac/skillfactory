@@ -1,4 +1,4 @@
-# Skillfactory
+# Rebrain
 
 > Здесь находится тестовый README.md файл,с демонстрацией того как может выглядеть md файл
 
@@ -36,15 +36,9 @@ apt-get install git
 
 
 
-## Acknowledgments
 
-$$REPO was inspired by...
 
-## See Also
-
-- [`noffle/common-readme`](https://github.com/noffle/common-readme)
-- ...
 
 ## License
 
-$$ZEE_LICENSE
+REBRAIN
