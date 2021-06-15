@@ -38,9 +38,15 @@ apt-get install git
 
 
 
+### Использование какого либо кода
 
-
-
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
 
 
